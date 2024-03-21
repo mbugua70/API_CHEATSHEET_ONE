@@ -1,0 +1,28 @@
+API
+
+dfn API Interface.
+- provide a way to use our object
+- API for developers
+- UI for users
+
+// REMOTE API //
+- computational of power.
+
+# How the web works #
+
+- the web browser is our client.
+- URL - universal resource locator
+- URI - Universal resource identifier.
+- PROTOCOL -
+- HTTP - is a stateless protocol
+
+// REST //
+- Representational state transfer.
+
+demands contraints for an API to be considered Restful
+   - uniform Interface
+   - caching ability
+   - statelessness
+   - layered system
+   - code on demand
+   - client server archicture.
